@@ -29,7 +29,6 @@
 - Streamlit
 - Pandas
 - PyMuPDF (PDF), textract (DOCX/TXT)
-- fpdf (for generating reports)
 
 ---
 
