@@ -19,7 +19,7 @@
 
 ## 🖼️ Screenshot
 
-![Screenshot](https://github.com/kashyapkrish101/fake-job-detector/assets/screenshot.jpg)
+![Screenshot](https://github.com/kashyapkrish101/fake-job-detector/blob/main/screenshot.jpg?raw=true)
 
 ---
 
