@@ -1,14 +1,42 @@
-# 🕵️ Fake Job Detector (Streamlit App)
+# 🕵️‍♂️ Fake Job Detector
 
-A beginner-friendly project to detect potentially fraudulent job postings using basic keyword-based analysis.
+> A smart Streamlit-based app that detects suspicious or fake job postings across various document formats (CSV, PDF, TXT, DOCX). Perfect for job seekers, HR analysts, and recruiters.
 
-## 🔧 Features
-- Upload a `.csv` file of job listings
-- Scans job descriptions for suspicious patterns like "quick money", "no experience", "earn $", etc.
-- Outputs a list of suspicious job posts
-- Built with **Python**, **Pandas**, and **Streamlit**
+![demo](https://github.com/kashyapkrish101/fake-job-detector/assets/demo.gif)
 
-## 💡 How It Works
-The app checks job descriptions for keywords that are commonly used in scam job listings.
+---
 
-## 📁 File Structure
+## 🚀 Features
+
+- 🔍 Upload job descriptions from `.csv`, `.pdf`, `.docx`, or `.txt`
+- 🧠 Intelligent keyword-based detection of fake or suspicious postings
+- 📊 Dataset preview + Search functionality
+- ✅ Authentic and 🚫 Malicious jobs separated
+- 🧾 One-click PDF report download with color-coded highlights
+- 🌐 Clean and interactive UI built with **Streamlit**
+
+---
+
+## 🖼️ Screenshot
+
+![Screenshot](https://github.com/kashyapkrish101/fake-job-detector/assets/screenshot.jpg)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- PyMuPDF (PDF), textract (DOCX/TXT)
+- fpdf (for generating reports)
+
+---
+
+## 🧪 How to Use
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/kashyapkrish101/fake-job-detector.git
+   cd fake-job-detector
+
